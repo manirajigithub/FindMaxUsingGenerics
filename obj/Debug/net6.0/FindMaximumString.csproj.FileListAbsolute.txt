@@ -1,0 +1,15 @@
+C:\Users\mani1\source\repos\FindMaximumInteger\FindMaximumString\bin\Debug\net6.0\FindMaximumString.exe
+C:\Users\mani1\source\repos\FindMaximumInteger\FindMaximumString\bin\Debug\net6.0\FindMaximumString.deps.json
+C:\Users\mani1\source\repos\FindMaximumInteger\FindMaximumString\bin\Debug\net6.0\FindMaximumString.runtimeconfig.json
+C:\Users\mani1\source\repos\FindMaximumInteger\FindMaximumString\bin\Debug\net6.0\FindMaximumString.dll
+C:\Users\mani1\source\repos\FindMaximumInteger\FindMaximumString\bin\Debug\net6.0\FindMaximumString.pdb
+C:\Users\mani1\source\repos\FindMaximumInteger\FindMaximumString\obj\Debug\net6.0\FindMaximumString.csproj.AssemblyReference.cache
+C:\Users\mani1\source\repos\FindMaximumInteger\FindMaximumString\obj\Debug\net6.0\FindMaximumString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mani1\source\repos\FindMaximumInteger\FindMaximumString\obj\Debug\net6.0\FindMaximumString.AssemblyInfoInputs.cache
+C:\Users\mani1\source\repos\FindMaximumInteger\FindMaximumString\obj\Debug\net6.0\FindMaximumString.AssemblyInfo.cs
+C:\Users\mani1\source\repos\FindMaximumInteger\FindMaximumString\obj\Debug\net6.0\FindMaximumString.csproj.CoreCompileInputs.cache
+C:\Users\mani1\source\repos\FindMaximumInteger\FindMaximumString\obj\Debug\net6.0\FindMaximumString.dll
+C:\Users\mani1\source\repos\FindMaximumInteger\FindMaximumString\obj\Debug\net6.0\refint\FindMaximumString.dll
+C:\Users\mani1\source\repos\FindMaximumInteger\FindMaximumString\obj\Debug\net6.0\FindMaximumString.pdb
+C:\Users\mani1\source\repos\FindMaximumInteger\FindMaximumString\obj\Debug\net6.0\FindMaximumString.genruntimeconfig.cache
+C:\Users\mani1\source\repos\FindMaximumInteger\FindMaximumString\obj\Debug\net6.0\ref\FindMaximumString.dll
