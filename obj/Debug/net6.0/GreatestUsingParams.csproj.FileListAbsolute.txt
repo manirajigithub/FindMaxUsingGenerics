@@ -1,0 +1,15 @@
+C:\Users\mani1\source\repos\FindMaximumInteger\GreatestUsingParams\bin\Debug\net6.0\GreatestUsingParams.exe
+C:\Users\mani1\source\repos\FindMaximumInteger\GreatestUsingParams\bin\Debug\net6.0\GreatestUsingParams.deps.json
+C:\Users\mani1\source\repos\FindMaximumInteger\GreatestUsingParams\bin\Debug\net6.0\GreatestUsingParams.runtimeconfig.json
+C:\Users\mani1\source\repos\FindMaximumInteger\GreatestUsingParams\bin\Debug\net6.0\GreatestUsingParams.dll
+C:\Users\mani1\source\repos\FindMaximumInteger\GreatestUsingParams\bin\Debug\net6.0\GreatestUsingParams.pdb
+C:\Users\mani1\source\repos\FindMaximumInteger\GreatestUsingParams\obj\Debug\net6.0\GreatestUsingParams.csproj.AssemblyReference.cache
+C:\Users\mani1\source\repos\FindMaximumInteger\GreatestUsingParams\obj\Debug\net6.0\GreatestUsingParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mani1\source\repos\FindMaximumInteger\GreatestUsingParams\obj\Debug\net6.0\GreatestUsingParams.AssemblyInfoInputs.cache
+C:\Users\mani1\source\repos\FindMaximumInteger\GreatestUsingParams\obj\Debug\net6.0\GreatestUsingParams.AssemblyInfo.cs
+C:\Users\mani1\source\repos\FindMaximumInteger\GreatestUsingParams\obj\Debug\net6.0\GreatestUsingParams.csproj.CoreCompileInputs.cache
+C:\Users\mani1\source\repos\FindMaximumInteger\GreatestUsingParams\obj\Debug\net6.0\GreatestUsingParams.dll
+C:\Users\mani1\source\repos\FindMaximumInteger\GreatestUsingParams\obj\Debug\net6.0\refint\GreatestUsingParams.dll
+C:\Users\mani1\source\repos\FindMaximumInteger\GreatestUsingParams\obj\Debug\net6.0\GreatestUsingParams.pdb
+C:\Users\mani1\source\repos\FindMaximumInteger\GreatestUsingParams\obj\Debug\net6.0\GreatestUsingParams.genruntimeconfig.cache
+C:\Users\mani1\source\repos\FindMaximumInteger\GreatestUsingParams\obj\Debug\net6.0\ref\GreatestUsingParams.dll
