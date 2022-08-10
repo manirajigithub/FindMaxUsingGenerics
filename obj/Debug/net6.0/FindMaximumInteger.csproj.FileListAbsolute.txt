@@ -1,0 +1,15 @@
+C:\Users\mani1\source\repos\FindMaximumInteger\FindMaximumInteger\bin\Debug\net6.0\FindMaximumInteger.exe
+C:\Users\mani1\source\repos\FindMaximumInteger\FindMaximumInteger\bin\Debug\net6.0\FindMaximumInteger.deps.json
+C:\Users\mani1\source\repos\FindMaximumInteger\FindMaximumInteger\bin\Debug\net6.0\FindMaximumInteger.runtimeconfig.json
+C:\Users\mani1\source\repos\FindMaximumInteger\FindMaximumInteger\bin\Debug\net6.0\FindMaximumInteger.dll
+C:\Users\mani1\source\repos\FindMaximumInteger\FindMaximumInteger\bin\Debug\net6.0\FindMaximumInteger.pdb
+C:\Users\mani1\source\repos\FindMaximumInteger\FindMaximumInteger\obj\Debug\net6.0\FindMaximumInteger.csproj.AssemblyReference.cache
+C:\Users\mani1\source\repos\FindMaximumInteger\FindMaximumInteger\obj\Debug\net6.0\FindMaximumInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mani1\source\repos\FindMaximumInteger\FindMaximumInteger\obj\Debug\net6.0\FindMaximumInteger.AssemblyInfoInputs.cache
+C:\Users\mani1\source\repos\FindMaximumInteger\FindMaximumInteger\obj\Debug\net6.0\FindMaximumInteger.AssemblyInfo.cs
+C:\Users\mani1\source\repos\FindMaximumInteger\FindMaximumInteger\obj\Debug\net6.0\FindMaximumInteger.csproj.CoreCompileInputs.cache
+C:\Users\mani1\source\repos\FindMaximumInteger\FindMaximumInteger\obj\Debug\net6.0\FindMaximumInteger.dll
+C:\Users\mani1\source\repos\FindMaximumInteger\FindMaximumInteger\obj\Debug\net6.0\refint\FindMaximumInteger.dll
+C:\Users\mani1\source\repos\FindMaximumInteger\FindMaximumInteger\obj\Debug\net6.0\FindMaximumInteger.pdb
+C:\Users\mani1\source\repos\FindMaximumInteger\FindMaximumInteger\obj\Debug\net6.0\FindMaximumInteger.genruntimeconfig.cache
+C:\Users\mani1\source\repos\FindMaximumInteger\FindMaximumInteger\obj\Debug\net6.0\ref\FindMaximumInteger.dll
