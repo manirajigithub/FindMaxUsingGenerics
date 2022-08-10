@@ -1,4 +1,4 @@
-﻿namespace FindMaximumNumber
+﻿namespace FindMaximumFloat
 {
     public class Program
     {
