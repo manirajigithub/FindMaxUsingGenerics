@@ -1,4 +1,4 @@
-﻿namespace ProblemUsingGenerics
+namespace ProblemUsingGenerics
 {
     public class Program
     {
