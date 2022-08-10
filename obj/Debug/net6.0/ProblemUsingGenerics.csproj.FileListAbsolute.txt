@@ -1,0 +1,15 @@
+C:\Users\mani1\source\repos\FindMaximumInteger\ProblemUsingGenerics\obj\Debug\net6.0\ProblemUsingGenerics.csproj.AssemblyReference.cache
+C:\Users\mani1\source\repos\FindMaximumInteger\ProblemUsingGenerics\obj\Debug\net6.0\ProblemUsingGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mani1\source\repos\FindMaximumInteger\ProblemUsingGenerics\obj\Debug\net6.0\ProblemUsingGenerics.AssemblyInfoInputs.cache
+C:\Users\mani1\source\repos\FindMaximumInteger\ProblemUsingGenerics\obj\Debug\net6.0\ProblemUsingGenerics.AssemblyInfo.cs
+C:\Users\mani1\source\repos\FindMaximumInteger\ProblemUsingGenerics\obj\Debug\net6.0\ProblemUsingGenerics.csproj.CoreCompileInputs.cache
+C:\Users\mani1\source\repos\FindMaximumInteger\ProblemUsingGenerics\bin\Debug\net6.0\ProblemUsingGenerics.exe
+C:\Users\mani1\source\repos\FindMaximumInteger\ProblemUsingGenerics\bin\Debug\net6.0\ProblemUsingGenerics.deps.json
+C:\Users\mani1\source\repos\FindMaximumInteger\ProblemUsingGenerics\bin\Debug\net6.0\ProblemUsingGenerics.runtimeconfig.json
+C:\Users\mani1\source\repos\FindMaximumInteger\ProblemUsingGenerics\bin\Debug\net6.0\ProblemUsingGenerics.dll
+C:\Users\mani1\source\repos\FindMaximumInteger\ProblemUsingGenerics\bin\Debug\net6.0\ProblemUsingGenerics.pdb
+C:\Users\mani1\source\repos\FindMaximumInteger\ProblemUsingGenerics\obj\Debug\net6.0\ProblemUsingGenerics.dll
+C:\Users\mani1\source\repos\FindMaximumInteger\ProblemUsingGenerics\obj\Debug\net6.0\refint\ProblemUsingGenerics.dll
+C:\Users\mani1\source\repos\FindMaximumInteger\ProblemUsingGenerics\obj\Debug\net6.0\ProblemUsingGenerics.pdb
+C:\Users\mani1\source\repos\FindMaximumInteger\ProblemUsingGenerics\obj\Debug\net6.0\ProblemUsingGenerics.genruntimeconfig.cache
+C:\Users\mani1\source\repos\FindMaximumInteger\ProblemUsingGenerics\obj\Debug\net6.0\ref\ProblemUsingGenerics.dll
